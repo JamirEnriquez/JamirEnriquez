@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/jamir-rogger-enriquez-prado-a8b7b9283/">
   <img align="left" alt="Jamir's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/ashwanisng">
+<a href="https://github.com/JamirEnriquez">
   <img align="left" alt="Jamir Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/jamir19882/">
