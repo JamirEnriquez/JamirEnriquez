@@ -12,12 +12,10 @@
 <a href="https://instagram.com/jamir19882/">
   <img align="left" alt="Jamir Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ashwani1406">
+<a href="https://www.facebook.com/jamir.enriquezprado">
   <img align="left" alt="Jamir Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://medium.com/@ashwanisng">
-  <img align="left" alt="Jamir Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+
 
 <br/>
 <br/>
