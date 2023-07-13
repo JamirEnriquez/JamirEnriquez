@@ -3,7 +3,7 @@
  <a href="https://twitter.com/Jamir_Fus">
   <img align="left" alt="Jamir Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/ashwanisng">
+<a href="https://linkedin.com/in/jamir-rogger-enriquez-prado-a8b7b9283/">
   <img align="left" alt="Jamir's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ashwanisng">
