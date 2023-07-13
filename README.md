@@ -9,7 +9,7 @@
 <a href="https://github.com/ashwanisng">
   <img align="left" alt="Jamir Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ashwanisng">
+<a href="https://instagram.com/jamir19882/">
   <img align="left" alt="Jamir Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ashwani1406">
