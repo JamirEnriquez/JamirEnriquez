@@ -32,6 +32,13 @@ Estudiante de la carrera de Economia en 8vo ciclo. Experiencia laboral en el Ban
 - ArcGis
 - Matlab
 
+## Software management experience:fire:
+
+- Python.
+- R
+- ArcGis
+- Matlab
+
 [![JamirEnriquez GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirEnriquez)](https://github.com/JamirEnriquez/github-readme-stats)
 
 </div>
