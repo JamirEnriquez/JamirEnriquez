@@ -1,6 +1,6 @@
  # <a href="https://www.linkedin.com/in/Jamir Rogger Enriquez Prado/">Jamir Rogger Enriquez Prado</a> :smiley:
  
- <a href="https://twitter.com/ashwanisng">
+ <a href="https://twitter.com/Jamir_Fus">
   <img align="left" alt="Jamir Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/ashwanisng">
