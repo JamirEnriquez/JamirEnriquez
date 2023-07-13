@@ -11,3 +11,6 @@ Here are some ideas to get you started
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![JamirEnriquez GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirEnriquez)](https://github.com/JamirEnriquez/github-readme-stats)
